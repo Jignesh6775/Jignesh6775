@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Jignesh+Vadiyatar;I+am+a+Full+Stack+Web+Developer;Curious+to+learn+new+things)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently learning NodeJS.<br><br>🤔 Check Out my [Resume](https://drive.google.com/file/d/1SNeXwG4fOEMdAzhnJz83hrbf35J__U6H/view?usp=share_link)<br><br>📫 Know more about me [Portfolio](https://jignesh6775.github.io/)<br><br>😄 All of my projects are available in My Github Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me jigsvadiyatar6557@gmail.com<br>
+🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently learning NodeJS.<br><br>🤔 Check Out my [Resume](https://drive.google.com/file/d/1SNeXwG4fOEMdAzhnJz83hrbf35J__U6H/view?usp=share_link)<br><br>📫 Know more about me [Portfolio](https://jignesh6775.github.io)<br><br>😄 All of my projects are available in My Github Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me jigsvadiyatar6557@gmail.com<br>
 
 ![](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg)
 <div align="center">
