@@ -1,6 +1,17 @@
-<div align="center">
-  <img alt="Coder GIF" height=200  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
-</div>
+![Blue Modern Technology LinkedIn Banner](https://raw.githubusercontent.com/Jignesh6775/Jignesh6775/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.gif)
+
+<!-- <img width="1100px" src='Blue Modern Technology LinkedIn Banner.gif'/> -->
+
+<p align="center">
+  
+  
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Myself+Jignesh+Vadiyatar+🙏;An+Aspiring+Full+Stack+Developer+From+India" alt="Typing SVG" />
+  
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ###
 
@@ -25,17 +36,11 @@
 
 ###
 
-<h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Jignesh+Vadiyatar;I+am+a+Full+Stack+Web+Developer;Curious+to+learn+new+things" alt="Typing SVG" /></a>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+  <h1 align="center">&nbsp &nbsp Welcome to My Profile 👋</h1>
 </div>
 
 <div align="center">
-<!-- # Hi there 👋 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Jignesh+Vadiyatar;I+am+a+Full+Stack+Web+Developer;Curious+to+learn+new+things)](https://git.io/typing-svg)
- </div>
  
 # 💫 About Me:
 🔭 I'm currently preparing for placements!<br><br>
