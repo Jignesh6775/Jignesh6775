@@ -18,7 +18,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jignesh-vadiyatar" target="_blank">
+  <a href="https://www.linkedin.com/in/jignesh-vadiyatar-b9508b192" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="jigsvadiyatar6557@gmail.com" target="_blank">
@@ -48,7 +48,7 @@
 🤔 Check Out my <a href="https://drive.google.com/file/d/1SNeXwG4fOEMdAzhnJz83hrbf35J__U6H/view?usp=share_link">Resume</a><br><br>
 📫 Know more about me <a href="https://jignesh6775.github.io/">Portfolio</a><br><br>
 😄 All of my projects are available in <a href="https://github.com/Jignesh6775">My Github Repositories</a><br><br>
-💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>
+💬 Ask me about HTML, CSS, Node.js, JavaScript<br><br>
 ⚡ How to reach me jigsvadiyatar6557@gmail.com<br>
 
 <div align="center">
